@@ -19,14 +19,10 @@ def query_pinecone(query_text, api_key, index):
 
 def extract_text_from_file(file):
     if file.type == "application/pdf":
-        # Use a PDF parser to extract text
-        # Example: use PyPDF2 or pdfplumber
-        import pdfplumber
         with pdfplumber.open(file) as pdf:
             text = ""
             for page in pdf.pages:
                 text += page.extract_text()
         return text
     else:
-        # Assume it's a text file
         return file.getvalue().decode("utf-8")
