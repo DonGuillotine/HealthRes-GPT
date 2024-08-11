@@ -2,3 +2,6 @@ streamlit
 openai
 pinecone-client
 pdfplumber
+cohere
+annoy
+python-decouple
