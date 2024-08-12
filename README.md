@@ -1,4 +1,5 @@
 # AI-Powered Personal Health Dashboard
+![image](https://github.com/user-attachments/assets/d84b0312-2aa1-4896-9890-fe2b16e6c422)
 
 ## Description
 
@@ -78,10 +79,10 @@ Contributions to improve the app are welcome. Please feel free to submit a Pull 
 
 ## Acknowledgments
 
+- [Muhammad Inaamullah](https://github.com/m-inaam)
 - Cohere for providing the embedding model
 - Pinecone for the vector database service
 - Annoy for the approximate nearest neighbors algorithm
-- [Muhammad Inaamullah](https://github.com/m-inaam)
 
 ## Future plans
 Make an actual dashboard haha
