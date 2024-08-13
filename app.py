@@ -7,7 +7,7 @@ def get_backend():
     return ResearchQueryBackend()
 
 def main():
-    st.title("AI-Powered Personal Health Dashboard")
+    st.title("HealthRes-GPT")
 
     backend = get_backend()
 
