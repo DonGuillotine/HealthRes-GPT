@@ -3,7 +3,7 @@
 
 ## Description
 
-This Research Paper Query App is a Streamlit-based web application that allows users to search through a database of research papers using both Annoy and Pinecone indexing methods. It provides a user-friendly interface for querying research papers and viewing detailed statistics about the index.
+HealthRes-GPT is a Streamlit-based web application that allows users to search through a database of research papers using both Annoy and Pinecone indexing methods. It provides a user-friendly interface for querying research papers and viewing detailed statistics about the index.
 
 ## Features
 
