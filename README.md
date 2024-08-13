@@ -1,4 +1,4 @@
-# AI-Powered Personal Health Dashboard
+# HealthRes-GPT
 ![image](https://github.com/user-attachments/assets/d84b0312-2aa1-4896-9890-fe2b16e6c422)
 
 ## Description
