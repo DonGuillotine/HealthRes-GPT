@@ -16,6 +16,7 @@ Based on the query, here are the top results from the research paper database:
 {search_results}
 
 Please provide a concise and helpful response to the user based on these results.
+If you don't know the answer, just say that you don't know, don't try to make up an answer.
 """
 
 template = PromptTemplate(input_variables=["query", "search_results"], template=prompt_template)
