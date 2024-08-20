@@ -1,6 +1,5 @@
 from langchain_cohere import ChatCohere
 from langchain.prompts import PromptTemplate
-from langchain.chains import LLMChain
 from decouple import config
 from backend import ResearchQueryBackend
 import pandas as pd
